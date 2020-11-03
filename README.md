@@ -1,2 +1,2 @@
 # Geo_made
- Analysis of spatial data. Homework # 2
+Анализ пространственных данных. Домашнее задание №2
